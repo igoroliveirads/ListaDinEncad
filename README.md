@@ -5,4 +5,4 @@
 2º Passo:<br>
 <i>gcc main.c ListaDinEncad.o -o oloko.c</i><br>
 Executar:<br>
-./oloko.c<br>
+<i>./oloko.c</i><br>
