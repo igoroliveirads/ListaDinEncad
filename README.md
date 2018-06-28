@@ -1,5 +1,5 @@
 # ListaDinEncad
-<b>Compilando uma TAD:<br><b>
+<b>Compilando uma TAD:<br></b>
 1º Passo:<br>
 gcc -c listaEncadeada.c -o listaEncadeada.o<br>
 2º Passo:<br>
