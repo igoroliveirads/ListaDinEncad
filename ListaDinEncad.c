@@ -199,7 +199,7 @@ int lista_vazia(Lista* li){ //função que verifica se a lista está vazia
 
 void imprime_lista(Lista* li){ //função que exibe a lista 
     if(li == NULL) //verifica se a lista é válida
-        return 0;
+        return;
     Elem* no = *li; //declara elemento auxiliar "no" que é equivalente ao primeiro nó da lista
     while(no != NULL){ //percorre a lista elemento por elemento
         printf("Matricula: %d\n",no->dados.matricula);
